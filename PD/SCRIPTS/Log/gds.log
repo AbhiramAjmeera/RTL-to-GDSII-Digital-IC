@@ -1,0 +1,415 @@
+
+Magic 8.3 revision 656 - Compiled on Thu Jun  4 09:39:46 PM IST 2026.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Could not find file '../Tech_Lib/sky130A.tech' in any of these directories:
+         . $CAD_ROOT/magic/sys $CAD_ROOT/magic/sys/current
+Failed to load technology "../Tech_Lib/sky130A"
+Processing system .magicrc file
+Switching to WIRING tool.
+Switching to NETLIST tool.
+Switching to PICK tool.
+Switching to BOX tool.
+Could not find file '../Tech_Lib/sky130A.tech' in any of these directories:
+         . $CAD_ROOT/magic/sys $CAD_ROOT/magic/sys/current
+Failed to load technology "../Tech_Lib/sky130A"
+Using technology "minimum", version 0.0
+Starting GDS generation...
+Reading LEF data from file ../../Tech_Lib/sky130_fd_sc_hd.tlef.
+This action cannot be undone.
+LEF read, Line 293 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 293 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 294 (Error): No layer defined for RECT.
+LEF read, Line 295 (Error): Don't know how to parse layer "li1"
+LEF read, Line 295 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 296 (Error): No layer defined for RECT.
+LEF read, Line 297 (Error): Don't know how to parse layer "met1"
+LEF read, Line 297 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 298 (Error): No layer defined for RECT.
+LEF read, Line 313 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 313 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 314 (Error): No layer defined for RECT.
+LEF read, Line 315 (Error): Don't know how to parse layer "li1"
+LEF read, Line 315 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 316 (Error): No layer defined for RECT.
+LEF read, Line 317 (Error): Don't know how to parse layer "met1"
+LEF read, Line 317 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 318 (Error): No layer defined for RECT.
+LEF read, Line 333 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 333 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 334 (Error): No layer defined for RECT.
+LEF read, Line 335 (Error): Don't know how to parse layer "li1"
+LEF read, Line 335 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 336 (Error): No layer defined for RECT.
+LEF read, Line 337 (Error): Don't know how to parse layer "met1"
+LEF read, Line 337 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 338 (Error): No layer defined for RECT.
+LEF read, Line 353 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 353 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 354 (Error): No layer defined for RECT.
+LEF read, Line 355 (Error): Don't know how to parse layer "li1"
+LEF read, Line 355 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 356 (Error): No layer defined for RECT.
+LEF read, Line 357 (Error): Don't know how to parse layer "met1"
+LEF read, Line 357 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 358 (Error): No layer defined for RECT.
+LEF read, Line 373 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 373 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 374 (Error): No layer defined for RECT.
+LEF read, Line 375 (Error): Don't know how to parse layer "li1"
+LEF read, Line 375 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 376 (Error): No layer defined for RECT.
+LEF read, Line 377 (Error): Don't know how to parse layer "met1"
+LEF read, Line 377 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 378 (Error): No layer defined for RECT.
+LEF read, Line 393 (Error): Don't know how to parse layer "via"
+LEF read, Line 393 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 394 (Error): No layer defined for RECT.
+LEF read, Line 395 (Error): Don't know how to parse layer "met1"
+LEF read, Line 395 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 396 (Error): No layer defined for RECT.
+LEF read, Line 397 (Error): Don't know how to parse layer "met2"
+LEF read, Line 397 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 398 (Error): No layer defined for RECT.
+LEF read, Line 413 (Error): Don't know how to parse layer "via"
+LEF read, Line 413 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 414 (Error): No layer defined for RECT.
+LEF read, Line 415 (Error): Don't know how to parse layer "met1"
+LEF read, Line 415 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 416 (Error): No layer defined for RECT.
+LEF read, Line 417 (Error): Don't know how to parse layer "met2"
+LEF read, Line 417 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 418 (Error): No layer defined for RECT.
+LEF read, Line 433 (Error): Don't know how to parse layer "via"
+LEF read, Line 433 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 434 (Error): No layer defined for RECT.
+LEF read, Line 435 (Error): Don't know how to parse layer "met1"
+LEF read, Line 435 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 436 (Error): No layer defined for RECT.
+LEF read, Line 437 (Error): Don't know how to parse layer "met2"
+LEF read, Line 437 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 438 (Error): No layer defined for RECT.
+LEF read, Line 453 (Error): Don't know how to parse layer "via"
+LEF read, Line 453 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 454 (Error): No layer defined for RECT.
+LEF read, Line 455 (Error): Don't know how to parse layer "met1"
+LEF read, Line 455 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 456 (Error): No layer defined for RECT.
+LEF read, Line 457 (Error): Don't know how to parse layer "met2"
+LEF read, Line 457 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 458 (Error): No layer defined for RECT.
+LEF read, Line 473 (Error): Don't know how to parse layer "via"
+LEF read, Line 473 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 474 (Error): No layer defined for RECT.
+LEF read, Line 475 (Error): Don't know how to parse layer "met1"
+LEF read, Line 475 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 476 (Error): No layer defined for RECT.
+LEF read, Line 477 (Error): Don't know how to parse layer "met2"
+LEF read, Line 477 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 478 (Error): No layer defined for RECT.
+LEF read, Line 493 (Error): Don't know how to parse layer "via2"
+LEF read, Line 493 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 494 (Error): No layer defined for RECT.
+LEF read, Line 495 (Error): Don't know how to parse layer "met2"
+LEF read, Line 495 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 496 (Error): No layer defined for RECT.
+LEF read, Line 497 (Error): Don't know how to parse layer "met3"
+LEF read, Line 497 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 498 (Error): No layer defined for RECT.
+LEF read, Line 513 (Error): Don't know how to parse layer "via2"
+LEF Read:  Further errors will not be reported.
+LEF read: Processed 792 lines.
+LEF Read: encountered 225 errors total.
+Reading LEF data from file ../../Tech_Lib/sky130_fd_sc_hd_merged.lef.
+This action cannot be undone.
+LEF read, Line 29 (Error): Don't know how to parse layer "li1"
+LEF read, Line 29 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 33 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 33 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 45 (Error): Don't know how to parse layer "met1"
+LEF read, Line 45 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 52 (Error): Don't know how to parse layer "pwell"
+LEF read, Line 52 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 59 (Error): Don't know how to parse layer "nwell"
+LEF read, Line 59 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 67 (Error): Don't know how to parse layer "li1"
+LEF read, Line 67 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 71 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 71 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 83 (Error): Don't know how to parse layer "met1"
+LEF read, Line 83 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 102 (Error): Don't know how to parse layer "li1"
+LEF read, Line 102 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 111 (Error): Don't know how to parse layer "met1"
+LEF read, Line 111 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 119 (Error): Don't know how to parse layer "pwell"
+LEF read, Line 119 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 127 (Error): Don't know how to parse layer "nwell"
+LEF read, Line 127 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 136 (Error): Don't know how to parse layer "met1"
+LEF read, Line 136 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 141 (Error): Don't know how to parse layer "li1"
+LEF read, Line 141 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 144 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 144 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 164 (Error): Don't know how to parse layer "li1"
+LEF read, Line 164 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 168 (Error): Don't know how to parse layer "met1"
+LEF read, Line 168 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 177 (Error): Don't know how to parse layer "li1"
+LEF read, Line 177 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 181 (Error): Don't know how to parse layer "met1"
+LEF read, Line 181 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 198 (Error): Don't know how to parse layer "nwell"
+LEF read, Line 198 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 200 (Error): Don't know how to parse layer "pwell"
+LEF read, Line 200 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 204 (Error): Don't know how to parse layer "li1"
+LEF read, Line 204 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 211 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 211 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 236 (Error): Don't know how to parse layer "met1"
+LEF read, Line 236 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 256 (Error): Don't know how to parse layer "li1"
+LEF read, Line 256 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 265 (Error): Don't know how to parse layer "li1"
+LEF read, Line 265 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 274 (Error): Don't know how to parse layer "li1"
+LEF read, Line 274 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 283 (Error): Don't know how to parse layer "li1"
+LEF read, Line 283 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 293 (Error): Don't know how to parse layer "li1"
+LEF read, Line 293 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 304 (Error): Don't know how to parse layer "met1"
+LEF read, Line 304 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 312 (Error): Don't know how to parse layer "pwell"
+LEF read, Line 312 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 320 (Error): Don't know how to parse layer "nwell"
+LEF read, Line 320 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 329 (Error): Don't know how to parse layer "met1"
+LEF read, Line 329 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 334 (Error): Don't know how to parse layer "li1"
+LEF read, Line 334 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 362 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 362 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 395 (Error): Don't know how to parse layer "li1"
+LEF read, Line 395 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 404 (Error): Don't know how to parse layer "li1"
+LEF read, Line 404 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 413 (Error): Don't know how to parse layer "li1"
+LEF read, Line 413 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 422 (Error): Don't know how to parse layer "li1"
+LEF read, Line 422 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 432 (Error): Don't know how to parse layer "li1"
+LEF read, Line 432 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 443 (Error): Don't know how to parse layer "met1"
+LEF read, Line 443 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 451 (Error): Don't know how to parse layer "pwell"
+LEF read, Line 451 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 459 (Error): Don't know how to parse layer "nwell"
+LEF read, Line 459 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 468 (Error): Don't know how to parse layer "met1"
+LEF read, Line 468 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 473 (Error): Don't know how to parse layer "li1"
+LEF read, Line 473 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 503 (Error): Don't know how to parse layer "mcon"
+LEF read, Line 503 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 538 (Error): Don't know how to parse layer "li1"
+LEF read, Line 538 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 550 (Error): Don't know how to parse layer "li1"
+LEF read, Line 550 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 559 (Error): Don't know how to parse layer "li1"
+LEF read, Line 559 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 571 (Error): Don't know how to parse layer "li1"
+LEF read, Line 571 (Error): Try adding this name to the LEF techfile section
+LEF Read:  Further errors will not be reported.
+LEF read: Processed 68383 lines.
+LEF Read: encountered 9968 errors total.
+Reading LEF data from file ../../Tech_Lib/sky130io_fill.lef.
+This action cannot be undone.
+LEF read, Line 16 (Error): Don't know how to parse layer "li1"
+LEF read, Line 16 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 18 (Error): Don't know how to parse layer "met1"
+LEF read, Line 18 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 20 (Error): Don't know how to parse layer "met2"
+LEF read, Line 20 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 22 (Error): Don't know how to parse layer "met3"
+LEF read, Line 22 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 24 (Error): Don't know how to parse layer "met4"
+LEF read, Line 24 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 26 (Error): Don't know how to parse layer "met5"
+LEF read, Line 26 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 36 (Error): Don't know how to parse layer "li1"
+LEF read, Line 36 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 38 (Error): Don't know how to parse layer "met1"
+LEF read, Line 38 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 40 (Error): Don't know how to parse layer "met2"
+LEF read, Line 40 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 42 (Error): Don't know how to parse layer "met3"
+LEF read, Line 42 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 44 (Error): Don't know how to parse layer "met4"
+LEF read, Line 44 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 46 (Error): Don't know how to parse layer "met5"
+LEF read, Line 46 (Error): Try adding this name to the LEF techfile section
+LEF read: Processed 51 lines.
+LEF Read: encountered 24 errors total.
+Reading DEF data from file ../../PD/RESULTS/ROUTING/Routing.def.
+This action cannot be undone.
+LEF read, Line 104 (Error): Don't know how to parse layer "met4"
+LEF read, Line 104 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 104 (Error): Don't know how to parse layer "via4"
+LEF read, Line 104 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 104 (Error): Don't know how to parse layer "met5"
+LEF read, Line 104 (Error): Try adding this name to the LEF techfile section
+DEF read, Line 104 (Warning): Improper layer order for VIARULE.
+DEF read, Line 104 (Error): No cut layer specified in VIARULE.
+  Processed 1 vias total.
+DEF read, Line 108 (Message): No layer for non-default width.
+DEF read, Line 108 (Message): No layer for non-default spacing.
+DEF read, Line 109 (Message): No layer for non-default width.
+DEF read, Line 109 (Message): No layer for non-default spacing.
+DEF read, Line 110 (Message): No layer for non-default width.
+DEF read, Line 110 (Message): No layer for non-default spacing.
+DEF read, Line 111 (Message): No layer for non-default width.
+DEF read, Line 111 (Message): No layer for non-default spacing.
+DEF read, Line 112 (Message): No layer for non-default width.
+DEF read, Line 112 (Message): No layer for non-default spacing.
+DEF read, Line 113 (Message): No layer for non-default width.
+DEF read, Line 113 (Message): No layer for non-default spacing.
+DEF read, Line 116 (Message): No layer for non-default width.
+DEF read, Line 116 (Message): No layer for non-default spacing.
+DEF read, Line 117 (Message): No layer for non-default width.
+DEF read, Line 117 (Message): No layer for non-default spacing.
+DEF read, Line 118 (Message): No layer for non-default width.
+DEF read, Line 118 (Message): No layer for non-default spacing.
+DEF read, Line 119 (Message): No layer for non-default width.
+DEF read, Line 119 (Message): No layer for non-default spacing.
+DEF read, Line 120 (Message): No layer for non-default width.
+DEF read, Line 120 (Message): No layer for non-default spacing.
+DEF read, Line 121 (Message): No layer for non-default width.
+DEF read, Line 121 (Message): No layer for non-default spacing.
+DEF read, Line 124 (Message): No layer for non-default width.
+DEF read, Line 124 (Message): No layer for non-default spacing.
+DEF read, Line 125 (Message): No layer for non-default width.
+DEF read, Line 125 (Message): No layer for non-default spacing.
+DEF read, Line 126 (Message): No layer for non-default width.
+DEF read, Line 126 (Message): No layer for non-default spacing.
+DEF read, Line 127 (Message): No layer for non-default width.
+DEF read, Line 127 (Message): No layer for non-default spacing.
+DEF read, Line 128 (Message): No layer for non-default width.
+DEF read, Line 128 (Message): No layer for non-default spacing.
+DEF read, Line 129 (Message): No layer for non-default width.
+DEF read, Line 129 (Message): No layer for non-default spacing.
+  Processed 3 non-default rules total.
+  Processed 6675 subcell instances total.
+LEF read, Line 6812 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6812 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6812 (Error): No layer defined for RECT.
+DEF read, Line 6814 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6816 (Error): Don't know how to parse layer "met2"
+LEF read, Line 6816 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6816 (Error): No layer defined for RECT.
+DEF read, Line 6818 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6820 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6820 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6820 (Error): No layer defined for RECT.
+DEF read, Line 6822 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6824 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6824 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6824 (Error): No layer defined for RECT.
+DEF read, Line 6826 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6828 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6828 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6828 (Error): No layer defined for RECT.
+DEF read, Line 6830 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6832 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6832 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6832 (Error): No layer defined for RECT.
+DEF read, Line 6834 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6836 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6836 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6836 (Error): No layer defined for RECT.
+DEF read, Line 6838 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6840 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6840 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6840 (Error): No layer defined for RECT.
+DEF read, Line 6842 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6844 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6844 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6844 (Error): No layer defined for RECT.
+DEF read, Line 6846 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6848 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6848 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6848 (Error): No layer defined for RECT.
+DEF read, Line 6850 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6852 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6852 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6852 (Error): No layer defined for RECT.
+DEF read, Line 6854 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6856 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6856 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6856 (Error): No layer defined for RECT.
+DEF read, Line 6858 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6860 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6860 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6860 (Error): No layer defined for RECT.
+DEF read, Line 6862 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6864 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6864 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6864 (Error): No layer defined for RECT.
+DEF read, Line 6866 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6868 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6868 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6868 (Error): No layer defined for RECT.
+DEF read, Line 6870 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6872 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6872 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6872 (Error): No layer defined for RECT.
+DEF read, Line 6874 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6876 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6876 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6876 (Error): No layer defined for RECT.
+DEF read, Line 6878 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6880 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6880 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6880 (Error): No layer defined for RECT.
+DEF read, Line 6882 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6884 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6884 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6884 (Error): No layer defined for RECT.
+DEF read, Line 6886 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6888 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6888 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6888 (Error): No layer defined for RECT.
+DEF read, Line 6890 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6892 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6892 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6892 (Error): No layer defined for RECT.
+DEF read, Line 6894 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6896 (Error): Don't know how to parse layer "met3"
+LEF read, Line 6896 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6896 (Error): No layer defined for RECT.
+DEF read, Line 6898 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6900 (Error): Don't know how to parse layer "met2"
+LEF read, Line 6900 (Error): Try adding this name to the LEF techfile section
+LEF read, Line 6900 (Error): No layer defined for RECT.
+DEF read, Line 6902 (Error): Pin specified without layer, was not placed.
+LEF read, Line 6904 (Error): Don't know how to parse layer "met2"
+LEF Read:  Further errors will not be reported.
+  Processed 49 pins total.
+  Processed 2 special nets total.
+  Processed 2906 nets total.
+DEF read: Processed 22235 lines.
+DEF Read: encountered 8340 errors total.
+DEF Read: encountered 1 warning total.
+Don't know how to read GDS-II:
+Nothing in "cifinput" section of tech file.
+No CIF/GDS output style set!
+I/O error in writing file ../RESULTS/GDS/router_top.gds.
+File may be incompletely written.
+
+=========================================
+ GDS Generation Completed Successfully
+ Output : router_top.gds
+=========================================
